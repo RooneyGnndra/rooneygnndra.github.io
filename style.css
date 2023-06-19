@@ -44,3 +44,13 @@ img {
   border: 3px solid #246fe9;
   border-radius: 10px;
 }
+
+footer {
+  position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: grey;
+   color: white;
+   text-align: center;
+}
